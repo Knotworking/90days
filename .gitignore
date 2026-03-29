@@ -38,3 +38,6 @@ captures/
 
 # macOS
 .DS_Store
+
+# claude code
+/.claude/skills/

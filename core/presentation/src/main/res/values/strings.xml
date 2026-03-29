@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_unknown">An unexpected error occurred.</string>
+    <string name="error_invalid_date_range">Exit date must be after entry date.</string>
+    <string name="error_disk_full">Storage is full. Please free up space and try again.</string>
+</resources>
